@@ -1,6 +1,8 @@
-### Report 
+### **Report** 
 
-The idea for our website is to provide a search function for an object that is then referenced to a physical longitude and latitude that is then presented to the user on a world map.
+The idea for our website is to provide a search function for an object that is then referenced to a physical longitude and latitude that is then presented to the user on a world map. 
+
+[Wireframe of idea](/Wireframe.jpg) 
 
 #### Tools:
 
@@ -8,7 +10,7 @@ There are a number of tools that we will use, firstly for communication we will 
 
 #### Delegated roles:
 
-Belinda - Team Leader & Front end developer
-Clinton - Team Member & Jack of all trades
-Kaleb - Team Member & Back end developer
+* Belinda - Team Leader & Front end developer
+* Clinton - Team Member & Jack of all trades
+* Kaleb - Team Member & Back end developer
  
