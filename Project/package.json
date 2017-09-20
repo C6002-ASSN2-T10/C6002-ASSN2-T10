@@ -1,0 +1,19 @@
+{
+    "name": "Task",
+    "version": "1.0.0",
+    "description": "An electron app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://Kaleb_Evans@bitbucket.org/Kaleb_Evans/NAME.git",
+    "keywords": [
+        "Kaleb",
+        "evans",
+        "9998226"
+    ],
+    "author": "KalebEvans",
+    "devDependencies": {
+        "electron": "~1.6.2"
+    }
+}
