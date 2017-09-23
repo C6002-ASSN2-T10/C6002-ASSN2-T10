@@ -1,6 +1,6 @@
  body {
 
-    background-color: lightblue;
+    background-color: teal;
  }
 
 
@@ -11,81 +11,36 @@
    margin-top:-50px; 
  }
 
- h1 {
 
-    text-align: center;
-    margin-top: 100px;
 
-    font-size: 100px
- }
+.imgwrapper {
+   width: 80%;
+   margin: 0 auto;
+   padding-top: 0;
+}
 
- #home{
-     background-color: lightblue;
- }
+.search {
 
- .globe {
-    width: 500px;
-    height: 500px;
-
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
-    margin: auto;
-
-    text-align: center;
- }
-
- .howto {
-    width: 700px;
- }
-
- .homesearch {
-
-    padding-top: 500px;
- }
- 
- .abouttext {
-
-     background-color: white;
-
-     position: absolute;
-
-     left: 150px;
-     right: 150px;
-     top: 100px;
-     bottom: 0px;
-
-     z-index: -1;
- }
-
- .homecontent {
-
-    background-color: white;
-
-    left: 150px;
-    right: 150px;
-    top: 50px;
-    
     margin-bottom: 100px;
-
-    z-index: -1;
-
-    position: absolute;
- }
-
- .search {
-
-    background-color: lightblue;
-    
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
     padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    
+}
 
-    width: 300px;
+.title {
 
-    margin-bottom: 100px;
+    margin-top: 50px;
+    
 
- }
+}
+
+h1 {
+
+    font-size: 50px;
+
+}
+
+
+
+ 
