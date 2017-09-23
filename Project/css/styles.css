@@ -27,8 +27,6 @@
     width: 500px;
     height: 500px;
 
-    position: fixed;
-
     top: 0;
     bottom: 0;
     left: 0;
@@ -48,3 +46,46 @@
     padding-top: 500px;
  }
  
+ .abouttext {
+
+     background-color: white;
+
+     position: absolute;
+
+     left: 150px;
+     right: 150px;
+     top: 100px;
+     bottom: 0px;
+
+     z-index: -1;
+ }
+
+ .homecontent {
+
+    background-color: white;
+
+    left: 150px;
+    right: 150px;
+    top: 50px;
+    
+    margin-bottom: 100px;
+
+    z-index: -1;
+
+    position: absolute;
+ }
+
+ .search {
+
+    background-color: lightblue;
+    
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+    width: 300px;
+
+    margin-bottom: 100px;
+
+ }
