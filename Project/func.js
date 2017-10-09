@@ -4,10 +4,12 @@ function initMap() {
       zoom: 13
     });
     var input = document.getElementById('searchInput');
-    map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+  
 
     var autocomplete = new google.maps.places.Autocomplete(input);
     autocomplete.bindTo('bounds', map);
+
+    
 
     var infowindow = new google.maps.InfoWindow();
     var marker = new google.maps.Marker({

@@ -1,46 +1,23 @@
- body {
-
-    background-color: teal;
- }
-
 
 #map {
-   width: 99vw;
-   height: 100vh;
-
-   margin-top:-50px; 
+    height: 700px;
+    width: 100%;
  }
 
 
-
-.imgwrapper {
-   width: 80%;
-   margin: 0 auto;
-   padding-top: 0;
+.one {
+    background-color: blue;
 }
 
-.search {
-
-    margin-bottom: 100px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    border-radius: 5px;
-    
+.two {
+    background-color: yellow;
 }
 
-.title {
-
-    margin-top: 50px;
-    
-
-}
-
-h1 {
-
-    font-size: 50px;
-
+.three {
+    background-color: pink;
 }
 
 
 
- 
+
+
