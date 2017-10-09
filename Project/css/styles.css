@@ -1,23 +1,20 @@
 
+html,body{
+    background:url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/escheresque.png");
+}
+
 #map {
-    height: 700px;
+    height: 500px;
     width: 100%;
  }
 
-
-.one {
-    background-color: blue;
+.search {
+    padding-bottom: 10px;
 }
 
-.two {
-    background-color: yellow;
+.four {
+    background-color: white;
 }
-
-.three {
-    background-color: pink;
-}
-
-
 
 
 
