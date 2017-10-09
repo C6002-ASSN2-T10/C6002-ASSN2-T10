@@ -1,0 +1,29 @@
+body {
+    
+        background-color: teal;
+     }
+    
+    
+    #map {
+       width: 99vw;
+       height: 100vh;
+    
+       margin-top:-50px; 
+     }
+    
+    
+    
+    .imgwrapper {
+       width: 80%;
+       margin: 0 auto;
+       padding-top: 0;
+    }
+    
+    .search {
+    
+        margin-bottom: 100px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 5px;
+        
+    }
